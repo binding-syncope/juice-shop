@@ -172,7 +172,6 @@
     "pug": "^3.0.3",
     "replace": "^1.2.2",
     "sanitize-filename": "^1.6.3",
-    "sanitize-html": "1.4.2",
     "semver": "^7.6.3",
     "sequelize": "^6.37.3",
     "serve-index": "^1.9.1",
@@ -185,7 +184,8 @@
     "web3": "^4.13.0",
     "winston": "^3.16.0",
     "yaml-schema-validator": "^1.2.3",
-    "z85": "^0.0.2"
+    "z85": "^0.0.2",
+    "sanitize-html": "^2.12.1"
   },
   "devDependencies": {
     "@cyclonedx/cyclonedx-npm": "^2.0.0||^3.0.0",
