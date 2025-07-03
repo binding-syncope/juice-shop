@@ -154,7 +154,6 @@
     "html-entities": "^1.4.0",
     "i18n": "^0.11.1",
     "js-yaml": "^3.14.0",
-    "jsonwebtoken": "0.4.0",
     "jssha": "^3.3.1",
     "juicy-chat-bot": "^0.8.0",
     "libxmljs2": "~0.37.0",
@@ -185,7 +184,8 @@
     "web3": "^4.13.0",
     "winston": "^3.16.0",
     "yaml-schema-validator": "^1.2.3",
-    "z85": "^0.0.2"
+    "z85": "^0.0.2",
+    "jsonwebtoken": "^9.0.0"
   },
   "devDependencies": {
     "@cyclonedx/cyclonedx-npm": "^2.0.0||^3.0.0",
